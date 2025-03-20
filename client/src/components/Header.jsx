@@ -33,7 +33,7 @@ export default function Header() {
         </Link>
         <form
           onSubmit={handleSubmit}
-          className='bg-slate-100 p-3 rounded-lg flex items-center'
+          className='bg-slate-100 p-3 rounded-full flex items-center'
         >
           <input
             type='text'
